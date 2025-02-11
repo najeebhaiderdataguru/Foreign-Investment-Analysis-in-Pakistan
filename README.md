@@ -40,7 +40,7 @@ Using **Random Forest Regression**, we predict future investment for the next th
 ## 📝 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/Foreign-Investment-Analysis-in-Pakistan.git
    ```
 2. Open `Foreign_Investment_Analysis.ipynb` in Jupyter Notebook.
 3. Run the notebook to explore insights and predictions.
